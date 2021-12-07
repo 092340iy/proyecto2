@@ -1,0 +1,158 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="RED UNO LA PAZ" tvg-logo="https://1.bp.blogspot.com/-T_mZrxqluPo/YaRHudNcFgI/AAAAAAAABuM/watgtwTOrOkYaqIaw1khgLZCc423wED5QCLcBGAsYHQ/s1688/RED%2BUNO%2BLA%2BPAZ.jpg" group-title="BOLIVIA",RED UNO LA PAZ
+
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhSLYishjJb45cTnCWXEDkM)/dm/3/x828xvr/d/live-3.m3u8
+
+#EXTINF:-1 tvg-name="RED UNO SANTA CRUZ" tvg-logo="https://1.bp.blogspot.com/-ik38prajUdM/YaRH4NN7pFI/AAAAAAAABuU/cfKft585K5s4uOBIVYTmhdhwPDfQE_9UACLcBGAsYHQ/s1688/RED%2BSANTA%2BCRUZ%2BHD.jpg" group-title="BOLIVIA",RED UNO SANTA CRUZ
+
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoYOuF6l5NDGNXaZxc63tzw)/dm/3/x825whp/d/live-3.m3u8
+
+#EXTINF:-1 tvg-name="RED UNO COCHABAMBA" tvg-logo="https://1.bp.blogspot.com/-cWsYB-_5AMc/YaRIDSUvUaI/AAAAAAAABuc/4W1-hJ1iASger148Xygy1isJRVSOdj-lwCLcBGAsYHQ/s1688/RED%2BCOCHABAMBA%2BHD.jpg" group-title="BOLIVIA",RED UNO COCHABAMBA
+
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnRBLyYWembRqo_tT8uibKM)/dm/3/x827j2y/d/live-3.m3u8
+
+#EXTINF:-1 tvg-name="BOLIVISION LA PAZ HD" tvg-logo="https://1.bp.blogspot.com/-DTyrZmCuy88/YaRINtF1sbI/AAAAAAAABuk/XPm9uKaei_kvUjwpWvGkauxGbhtAcZmgQCLcBGAsYHQ/s1688/BOLIVISION%2BHD%2BLA%2BPAZ.jpg" group-title="BOLIVIA",BOLIVISION LA PAZ HD
+
+http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BOLIVISION COCHABAMBA HD" tvg-logo="https://1.bp.blogspot.com/-70MO71l7M50/YaRIWp1nigI/AAAAAAAABus/f68XMRJSlp0EFAJUdmz-u0GlY11SlZvIgCLcBGAsYHQ/s1688/BOLIVISION%2BHD%2BCOCHABAMBA.jpg" group-title="BOLIVIA",BOLIVISION COCHABAMBA
+
+http://live.cdn.comteco.com.bo/comgo/0202/index.m3u8
+
+#EXTINF:-1 tvg-name="BOLIVISION SANTA CRUZ HD" tvg-logo="https://1.bp.blogspot.com/-6HaPEJ6ITHM/YaRIfYRHPmI/AAAAAAAABu0/oaYL8ssorE84n2y3_VR-d50jsdrxAhCMACLcBGAsYHQ/s1688/BOLIVISION%2BHD%2BSANTA%2BCRUZ.jpg" group-title="BOLIVIA",BOLIVISION SANTA CRUZ HD
+
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-name="TVU LA PAZ" tvg-logo="https://1.bp.blogspot.com/-ipkiGcvQ20E/YaKaunVoXYI/AAAAAAAABrA/HgDYnThk6HsXBv6KV8YJtkerJ_vnp8lNwCLcBGAsYHQ/s548/TVU%2BLAPAZ.jpg" group-title="BOLIVIA",TVU LA PAZ
+
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w646772637.m3u8
+
+#EXTINF:-1 tvg-name="CADENA A LA PAZ" tvg-logo="https://1.bp.blogspot.com/-bGk8kuh978M/YaKbEwXAbbI/AAAAAAAABrI/5bXD99JyPcE1Ux52UN_3IH-Fe1pPgVRsgCLcBGAsYHQ/s721/CADENA%2BA%2BLA%2BPAZ.jpg" group-title="BOLIVIA",CADENA A LA PAZ
+
+http://live.cdn.comteco.com.bo/comgo/0213/index.m3u8
+
+#EXTINF:-1 tvg-name="RTP LA PAZ" tvg-logo="https://1.bp.blogspot.com/-gbRM8NMFmT4/YaWw-X-_VRI/AAAAAAAABwk/P3cmrqSaBfcZ_zhGT-_HH8RuRFqtmAYswCLcBGAsYHQ/s1247/RTP%2BEN%2BVIVO%2BHD.jpg" group-title="BOLIVIA",RTP LA PAZ
+
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTP HD" tvg-logo="https://1.bp.blogspot.com/-qKcDTMZjlXQ/YaWxMjIsV3I/AAAAAAAABwo/X2iKfgFW1cQDSxI7b8OpHuRK6Sg16tBmwCLcBGAsYHQ/s1247/RTP%2BEN%2BVIVO%2BHD%2B0202.jpg" group-title="BOLIVIA",RTP HD
+
+http://www.channel.tevemi.com:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BOLIVIA TV 7.1" tvg-logo="https://1.bp.blogspot.com/-BcKNa5p7R2M/YaVNmPZZNHI/AAAAAAAABwE/G4gKhSQqpvkCPNojzQietKUBtfwMMX3CACLcBGAsYHQ/s1688/BOLIVIA%2BTV%2B7%2B1.jpg" group-title="BOLIVIA",BOLIVIA TV 7.1
+
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BOLIVIA TV 7.2" tvg-logo="https://1.bp.blogspot.com/-lz4ovJGCuxg/YaVNvgNiXJI/AAAAAAAABwM/lmHJ2HSEyp41amJ9INamyYdhU8ehF7aGgCLcBGAsYHQ/s1688/BOLIVIA%2BTV%2B7%2B2.jpg" group-title="BOLIVIA",BOLIVIA TV 7.2
+
+https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w898112372.m3u8
+
+
+#EXTINF:-1 tvg-name="ATB LA PAZ" tvg-logo="https://1.bp.blogspot.com/--55NIi-MIeQ/YaVM9UhsyLI/AAAAAAAABvw/p-pC0Z92Up4ryyqQL21WICssQLd7Eqf7QCLcBGAsYHQ/s1688/ATB%2BLA%2BPAZ.jpg" group-title="BOLIVIA",ATB LA PAZ
+
+https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
+
+#EXTINF:-1 tvg-name="ATB LA PAZ HD" tvg-logo="https://1.bp.blogspot.com/--Q63zmj2BGo/YafRYmppWPI/AAAAAAAABxI/PzJ5BdU0WFQCaulBF3NuZvhI2xVo677EgCLcBGAsYHQ/s1688/ATB%2BLA%2BPAZ%2BHD%2BPRUEBA.jpg" group-title="BOLIVIA",ATB LA PAZ HD
+
+http://www.channel.tevemi.com:1935/Atb/Atb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ATB COCHABAMBA" tvg-logo="https://1.bp.blogspot.com/-xUF6Bdia3ng/YaVNJ3RRbFI/AAAAAAAABv0/zm4_NgRinOQSpQj6KPNeNbdVraMufHuBACLcBGAsYHQ/s1688/ATB%2BCOCHABAMBA.jpg" group-title="BOLIVIA",ATB COCHABAMBA
+
+https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
+
+#EXTINF:-1 tvg-name="ATB SANTA CRUZ" tvg-logo="https://1.bp.blogspot.com/-xyH5WekPZ-8/YaVNSzQ2CGI/AAAAAAAABv4/mD4reT4zvJkj29svW-nBYUq1_ms43pGaQCLcBGAsYHQ/s1688/ATB%2BSANTA%2BCRUZ.jpg" group-title="BOLIVIA",ATB SANTA CRUZ
+
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-name="ATB HD" tvg-logo="https://1.bp.blogspot.com/-Eb_DhAHhuy4/YaVNbkLFh2I/AAAAAAAABv8/EYUMVxQrMx4TbJK9EKl26h5Fp5WhiSoxgCLcBGAsYHQ/s1688/ATB%2BDIGITAL.jpg" group-title="BOLIVIA",ATB HD
+
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-name="UNITEL LA PAZ" tvg-logo="https://1.bp.blogspot.com/-znnyx9lsY7I/YaRGkO9uz4I/AAAAAAAABtg/qmZ42gtg2tUJnz2mNtqgXr0FPGNFxZvQwCLcBGAsYHQ/s1247/UNITEL%2BLA%2BPAZ%2BHD.jpg" group-title="BOLIVIA",UNITEL LA PAZ
+
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWLIBUiez2tEvSCQPw7lpa4)/dm/3/x7vsfua/d/live-3.m3u8
+
+#EXTINF:-1 tvg-name="UNITEL SANTA CRUZ" tvg-logo="https://1.bp.blogspot.com/-2J9bvu227KY/YaRG2yVeBFI/AAAAAAAABto/CJ7LGP6xxpMNdqXxZofYaIyyFkc3D74DQCLcBGAsYHQ/s1247/UNITEL%2BSANTA%2BCRUZ%2BHD.jpg" group-title="BOLIVIA",UNITEL SANTA CRUZ
+
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb5ePRtzwb7A9NrUWo8IsIQ)/dm/3/x7vsezg/s/live-3.m3u8
+
+#EXTINF:-1 tvg-name="UNITEL COCHABAMBA" tvg-logo="https://1.bp.blogspot.com/-pwetUaTaIyE/YaRHBkJdZeI/AAAAAAAABts/gAbNY2IqoTor_w4vjMot2ndJp7v2YO73ACLcBGAsYHQ/s1247/UNITEL%2BCOCHABAMBA%2BHD.jpg" group-title="BOLIVIA",UNITEL COCHABAMBA
+
+https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUE9c2TCns7w_cDLcgos08RA)/dm/3/x7y922d/s/live-3.m3u8
+
+#EXTINF:-1 tvg-name="UNITEL SEÑAL GLOBAL" tvg-logo="https://1.bp.blogspot.com/-PHrn0qeGBX4/YaRHOSuEAhI/AAAAAAAABt0/LggrH71FUJsIffn1-uZgB4lmvWjCEn2_QCLcBGAsYHQ/s1247/UNITEL%2BGLOBAL%2BHD.jpg" group-title="BOLIVIA",UNITEL SEÑAL GLOBAL
+
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl45IJXmC4rpc8mV2cU7uXTA)/dm/3/x7wzxiw/s/live-3.m3u8
+
+#EXTINF:-1 tvg-name="UNITEL SEÑAL EN VIVO 2" tvg-logo="https://1.bp.blogspot.com/-_Db4bXVhnSQ/YaRHZb3Nt2I/AAAAAAAABt8/SgcLDKEMWvQpDKQ_YxZau4FrzDVoBUHPwCLcBGAsYHQ/s1247/UNITEL%2BEN%2BVIVO%2B2%2BHD.jpg" group-title="BOLIVIA",UNITEL EN VIVO 2
+
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3NzLcXTCNtvjXcfUvw-VQA)/dm/3/x7wzxiw/s/live-3.m3u8
+
+#EXTINF:-1 tvg-name="UNITEL SEÑAL EN VIVO 3" tvg-logo="https://1.bp.blogspot.com/-jxNdW28Zfhc/YaRHjf-57WI/AAAAAAAABuE/ebsXxeoEJZwJf4dNT1HN8JTt910EdmRkwCLcBGAsYHQ/s1247/UNITEL%2BEN%2BVIVO%2B3%2BHD.jpg" group-title="BOLIVIA",UNITEL SEÑAL EN VIVO 3
+
+http://200.58.160.67:8081/envivo/unitelhd/unitelhd/unitelhd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SEO TV FHD" tvg-logo="https://1.bp.blogspot.com/-lMVt5Gzicco/YaKbqBojfMI/AAAAAAAABrQ/H_svQOF1wCY1NmCh_4iWfLP_jxqh399eQCLcBGAsYHQ/s631/SEO%2BTV%2BFHD.jpg" group-title="BOLIVIA",SEO TV FHD
+
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+
+#EXTINF:-1 tvg-name="SEO TV KIDS" tvg-logo="https://1.bp.blogspot.com/-3uj9GUZeIlM/YaKb9zZMBqI/AAAAAAAABrY/0rq_YZysXx4UR5e-wWb-YxQzYvNWev2wwCLcBGAsYHQ/s631/SEO%2BKIDS%2BTV.jpg" group-title="BOLIVIA",SEO TV KIDS
+
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+
+#EXTINF:-1 tvg-name="PAT BOLIVIA" tvg-logo="https://1.bp.blogspot.com/-iv17OsB3-ow/YaRJMAvTPCI/AAAAAAAABvM/d0SDp3HL3tob5K7gxuSaBaYWCH3tnWsFgCLcBGAsYHQ/s1688/PAT%2BHD%2B01.jpg" group-title="BOLIVIA",PAT BOLIVIA
+
+http://live.cdn.comteco.com.bo/comgo/0215/index.m3u8
+
+#EXTINF:-1 tvg-name="PAT HD" tvg-logo="https://1.bp.blogspot.com/-wap-XFFfS-A/YaRJUKWcF-I/AAAAAAAABvQ/4jiK75LaZKA5GTeqMylmPM0U3tCU8OD0wCLcBGAsYHQ/s1688/PAT%2BHD%2B02.jpg" group-title="BOLIVIA",PAT HD
+
+http://200.58.160.67:8081/envivo/pat/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SNTV HD SANTA CRUZ" tvg-logo="https://1.bp.blogspot.com/-8lEm17tdp4k/YaK18AypykI/AAAAAAAABsI/Dh1-EtRD5dMzjVn92cVsSMZvn7pSxRUcwCLcBGAsYHQ/s1015/SNTV%2BHD.jpg" group-title="BOLIVIA",SNTV HD SANTA CRUZ
+
+http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-name="XTO TV" tvg-logo="https://1.bp.blogspot.com/-hK4yYLbttis/YaLARSTbQ0I/AAAAAAAABsg/kJln159sUe8nK8kjsUrORQwr1XqbJ_qDQCLcBGAsYHQ/s319/XTO%2BTV%2BBOLIVIA.jpg" group-title="BOLIVIA",XTO TV
+
+http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RENUEVA DIGITAL" tvg-logo="https://1.bp.blogspot.com/-K6lb2ZS9gWU/YaLdcM86AjI/AAAAAAAABs4/97P1yqnZw8c29XNzSk5gWM3w9INmBkAwQCLcBGAsYHQ/s1221/RENUEVA%2BDIGITAL%2BFHD.jpg" group-title="BOLIVIA",RENUEVA DIGITAL
+
+https://inliveserver.com:1936/8158/8158/chunklist_w1213574512.m3u8
+
+#EXTINF:-1 tvg-name="TVU HD SUCRE" tvg-logo="https://1.bp.blogspot.com/-eeL7ZrHguf4/YaLUA-ziAxI/AAAAAAAABsw/b3ayJ9_hL-gi3ksGRtwlrZnXu3AYlTMQgCLcBGAsYHQ/s973/TVU%2BSUCRE.jpg" group-title="BOLIVIA",TVU HD SUCRE
+
+https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_1080p/chunklist_w1560917791.m3u8
+
+#EXTINF:-1 tvg-name="RED GIGAVISION HD" tvg-logo="https://1.bp.blogspot.com/-D_wiqCPT1nI/YaWwJdQ2_XI/AAAAAAAABwY/tUU64ZRUaTsMVCKz0N5vFDIovhwtSyO2wCLcBGAsYHQ/s1688/RED%2BGIGAVISION%2BHD.jpg" group-title="BOLIVIA",RED GIGAVISION HD
+
+http://200.58.160.67:8081/envivo/gigavision/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CVC CANAL VIRGEN DE COPACABANA" tvg-logo="https://1.bp.blogspot.com/--rF-ju-iN4I/YagKnUOnjqI/AAAAAAAABxc/IwLYAlw5KOwmfIxCZxU5m3gL1_jau2IYgCLcBGAsYHQ/s1688/cvc%2Bhd%2Bvirgen.jpg" group-title="BOLIVIA",CVC CANAL VIRGEN DE COPACABANA
+
+https://cp.sradiotv.com:1936/8058/8058/chunklist_w1113016796.m3u8
+
+#EXTINF:-1 tvg-name="TV LATINA HD" tvg-logo="https://1.bp.blogspot.com/-oSzokgnAgYk/YalpbThjYrI/AAAAAAAABx4/533pelDVTC0ShJF_JDwwEloHcOAMqdTagCNcBGAsYHQ/s1688/LATINA%2BHD.jpg" group-title="BOLIVIA",TV LATINA HD
+
+http://data.tucableip.com/live/tvlatinamontero/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ANIME ZONE TV" tvg-logo="https://1.bp.blogspot.com/-1gKZfggEpmU/YZgqpS5CmzI/AAAAAAAABp4/GCezPwcGO0ct3MLMcLOujCL9TWbDA2tGQCLcBGAsYHQ/s821/ANIME%2BZONE%2BTV.jpg" group-title="INTERNACIONAL",ANIME ZONE TV
+
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" tvg-logo="https://1.bp.blogspot.com/-DlIUBI2qkmc/YaKr3K-zkYI/AAAAAAAABr8/D0hN5JP7bVER1tw5ds3iqdlua8wcV8-MACLcBGAsYHQ/s468/NASA%2BTV.jpg" group-title="INTERNACIONAL",NASA TV
+
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-name="DW ESPAÑOL FHD" tvg-logo="https://1.bp.blogspot.com/-eeXwbNRck24/YafSVIrMoAI/AAAAAAAABxQ/yH34t9oNIR8IkT7sExfgghqSZSzX4WAkgCLcBGAsYHQ/s1688/DW%2BEN%2BESPA%25C3%2591OL%2BHD.jpg" group-title="INTERNACIONAL",DW ESPAÑOL FHD
+
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-name="TELESUR HD" tvg-logo="https://1.bp.blogspot.com/-DBHhJIVExs0/YamUVztk3OI/AAAAAAAAByA/w5w0Nlor4Q0I9socV8_pehytbuHoUV-2ACNcBGAsYHQ/s1688/TELESUR%2BINTERNACIONAL.jpg" group-title="INTERNACIONAL",TELESUR HD
+
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="RETRO PLUS" tvg-logo="https://1.bp.blogspot.com/-ttede9nbBMw/YaWv7IsJnpI/AAAAAAAABwU/-nJIKEkb0GMXobcOzsyIYeOqKUl4-ryiwCLcBGAsYHQ/s1688/RETRO%2BPLUS%2BHD.jpg" group-title="MUSICA",RETRO PLUS
+
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1234792861.m3u8
